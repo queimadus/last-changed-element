@@ -4,12 +4,7 @@ Display when entity was last changed in home assistant picture element.
 ![Example](last-changed-element.png)
 
 ### Instalation
-Add this repo to `HACS` and then go to `Configuration > Lovelace Dashboard > Resources` and add a new resource:
-
-```
-URL: /hacsfiles/last-changed-element/last-changed-element.js
-Resource Type: Javascript Module
-```
+Add this repo to `HACS` as a custom repository and install it. You're all set!
 
 ### Usage
 

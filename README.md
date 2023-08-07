@@ -1,9 +1,9 @@
 # Last-changed-element
-Display when entity was last changed in home assistant picture element.
+Display when the entity was last changed in home assistant picture element.
 
 ![Example](https://raw.githubusercontent.com/queimadus/last-changed-element/main/last-changed-element.png)
 
-### Instalation
+### Installation
 Add this repo to `HACS` as a custom repository and install it. You're all set!
 
 ### Usage
